@@ -321,8 +321,8 @@ def train(model, dataset, lr, out_seq_len, num_epochs):
     plt.xlabel('Epoch')
     plt.ylabel('Loss')
     plt.title(f'Training Loss')
-    plt.show()
     plt.savefig('training_loss.png', dpi=300)
+    plt.show()
 
     # Sample from the model and print the result
     with torch.no_grad():
