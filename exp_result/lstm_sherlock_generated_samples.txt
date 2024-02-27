@@ -1,0 +1,394 @@
+/home/admin1/anaconda3/envs/grad_env/bin/python /home/admin1/Documents/RNN-and-LSTM-from-Scratch/code.py
+Epoch 0. Average loss: 2.61314651
+Epoch 1. Average loss: 2.22115557
+Epoch 2. Average loss: 2.15579647
+Epoch 3. Average loss: 2.09990786
+Epoch 4. Average loss: 2.02314999
+Epoch 5. Average loss: 1.94543223
+Epoch 6. Average loss: 1.94313009
+Epoch 7. Average loss: 1.92366979
+Epoch 8. Average loss: 1.88062053
+Epoch 9. Average loss: 1.84646530
+Epoch 10. Average loss: 1.81331372
+Epoch 11. Average loss: 1.82531301
+Epoch 12. Average loss: 1.88203911
+Epoch 13. Average loss: 1.80143788
+Epoch 14. Average loss: 1.83124608
+Epoch 15. Average loss: 1.83222017
+Epoch 16. Average loss: 1.78656624
+Epoch 17. Average loss: 1.76089625
+Epoch 18. Average loss: 1.75923881
+Epoch 19. Average loss: 1.76332166
+Epoch 20. Average loss: 1.71908651
+Epoch 21. Average loss: 1.70420419
+Epoch 22. Average loss: 1.71035581
+Epoch 23. Average loss: 1.73551846
+Epoch 24. Average loss: 1.72453306
+Epoch 25. Average loss: 1.74196217
+Epoch 26. Average loss: 1.74010073
+Epoch 27. Average loss: 1.68953513
+Epoch 28. Average loss: 1.67456567
+Epoch 29. Average loss: 1.66077951
+Epoch 30. Average loss: 1.71942485
+Epoch 31. Average loss: 1.67595181
+Epoch 32. Average loss: 1.68077634
+Epoch 33. Average loss: 1.63297434
+Epoch 34. Average loss: 1.68731617
+Epoch 35. Average loss: 1.66213789
+Epoch 36. Average loss: 1.65645450
+Epoch 37. Average loss: 1.64092236
+Epoch 38. Average loss: 1.63154368
+Epoch 39. Average loss: 1.63951964
+Epoch 40. Average loss: 1.65758560
+Epoch 41. Average loss: 1.59291694
+Epoch 42. Average loss: 1.62115703
+Epoch 43. Average loss: 1.65343079
+Epoch 44. Average loss: 1.64553563
+Epoch 45. Average loss: 1.63809114
+Epoch 46. Average loss: 1.65912643
+Epoch 47. Average loss: 1.64332967
+Epoch 48. Average loss: 1.68171598
+Epoch 49. Average loss: 1.63078232
+Epoch 50. Average loss: 1.57585955
+Epoch 51. Average loss: 1.59908932
+Epoch 52. Average loss: 1.61624313
+Epoch 53. Average loss: 1.62938747
+Epoch 54. Average loss: 1.61756952
+Epoch 55. Average loss: 1.58659698
+Epoch 56. Average loss: 1.63137898
+Epoch 57. Average loss: 1.55389478
+Epoch 58. Average loss: 1.57176198
+Epoch 59. Average loss: 1.61801654
+Epoch 60. Average loss: 1.63716395
+Epoch 61. Average loss: 1.60973387
+Epoch 62. Average loss: 1.57807051
+Epoch 63. Average loss: 1.56997802
+Epoch 64. Average loss: 1.55115924
+Epoch 65. Average loss: 1.57079691
+Epoch 66. Average loss: 1.55004365
+Epoch 67. Average loss: 1.56131631
+Epoch 68. Average loss: 1.56708862
+Epoch 69. Average loss: 1.60436126
+Epoch 70. Average loss: 1.54123384
+Epoch 71. Average loss: 1.54299990
+Epoch 72. Average loss: 1.57183430
+Epoch 73. Average loss: 1.54773625
+Epoch 74. Average loss: 1.52908572
+Epoch 75. Average loss: 1.57069621
+Epoch 76. Average loss: 1.58130187
+Epoch 77. Average loss: 1.53871819
+Epoch 78. Average loss: 1.57249804
+Epoch 79. Average loss: 1.51610735
+Epoch 80. Average loss: 1.57395760
+Epoch 81. Average loss: 1.52537296
+Epoch 82. Average loss: 1.57225640
+Epoch 83. Average loss: 1.58377422
+Epoch 84. Average loss: 1.52200443
+Epoch 85. Average loss: 1.51470767
+Epoch 86. Average loss: 1.56233274
+Epoch 87. Average loss: 1.57198590
+Epoch 88. Average loss: 1.56769918
+Epoch 89. Average loss: 1.51199771
+Epoch 90. Average loss: 1.50973568
+Epoch 91. Average loss: 1.50498470
+Epoch 92. Average loss: 1.50251575
+Epoch 93. Average loss: 1.54755590
+Epoch 94. Average loss: 1.54157310
+Epoch 95. Average loss: 1.49584760
+Epoch 96. Average loss: 1.49811333
+Epoch 97. Average loss: 1.49849440
+Epoch 98. Average loss: 1.49619478
+Epoch 99. Average loss: 1.56018824
+Epoch 100. Average loss: 1.56742313
+Epoch 101. Average loss: 1.54358213
+Epoch 102. Average loss: 1.55873964
+Epoch 103. Average loss: 1.53649373
+Epoch 104. Average loss: 1.56400032
+Epoch 105. Average loss: 1.52244982
+Epoch 106. Average loss: 1.50890460
+Epoch 107. Average loss: 1.50310183
+Epoch 108. Average loss: 1.47275682
+Epoch 109. Average loss: 1.45603052
+Epoch 110. Average loss: 1.47024801
+Epoch 111. Average loss: 1.49871883
+Epoch 112. Average loss: 1.55133338
+Epoch 113. Average loss: 1.48248785
+Epoch 114. Average loss: 1.47791481
+Epoch 115. Average loss: 1.51193571
+Epoch 116. Average loss: 1.47517921
+Epoch 117. Average loss: 1.49606605
+Epoch 118. Average loss: 1.52801858
+Epoch 119. Average loss: 1.53280112
+Epoch 120. Average loss: 1.47183082
+Epoch 121. Average loss: 1.48153739
+Epoch 122. Average loss: 1.47621250
+Epoch 123. Average loss: 1.49096544
+Epoch 124. Average loss: 1.45784155
+Epoch 125. Average loss: 1.48803664
+Epoch 126. Average loss: 1.48235114
+Epoch 127. Average loss: 1.50512061
+Epoch 128. Average loss: 1.49965238
+Epoch 129. Average loss: 1.49871087
+Epoch 130. Average loss: 1.50672885
+Epoch 131. Average loss: 1.47795648
+Epoch 132. Average loss: 1.46707067
+Epoch 133. Average loss: 1.50196214
+Epoch 134. Average loss: 1.48812676
+Epoch 135. Average loss: 1.45727866
+Epoch 136. Average loss: 1.52316084
+Epoch 137. Average loss: 1.48677417
+Epoch 138. Average loss: 1.44955572
+Epoch 139. Average loss: 1.48028141
+Epoch 140. Average loss: 1.42793753
+Epoch 141. Average loss: 1.43897189
+Epoch 142. Average loss: 1.45029817
+Epoch 143. Average loss: 1.49801244
+Epoch 144. Average loss: 1.46924317
+Epoch 145. Average loss: 1.47693986
+Epoch 146. Average loss: 1.49138214
+Epoch 147. Average loss: 1.49323454
+Epoch 148. Average loss: 1.48342280
+Epoch 149. Average loss: 1.45820061
+Epoch 150. Average loss: 1.42604959
+Epoch 151. Average loss: 1.48387249
+Epoch 152. Average loss: 1.46548505
+Epoch 153. Average loss: 1.50668743
+Epoch 154. Average loss: 1.45484323
+Epoch 155. Average loss: 1.43601578
+Epoch 156. Average loss: 1.49524379
+Epoch 157. Average loss: 1.42181858
+Epoch 158. Average loss: 1.49146858
+Epoch 159. Average loss: 1.50082713
+Epoch 160. Average loss: 1.48100958
+Epoch 161. Average loss: 1.51566868
+Epoch 162. Average loss: 1.45271222
+Epoch 163. Average loss: 1.43071231
+Epoch 164. Average loss: 1.47005404
+Epoch 165. Average loss: 1.48028020
+Epoch 166. Average loss: 1.45642400
+Epoch 167. Average loss: 1.43604106
+Epoch 168. Average loss: 1.48551608
+Epoch 169. Average loss: 1.47959579
+Epoch 170. Average loss: 1.44235996
+Epoch 171. Average loss: 1.40467741
+Epoch 172. Average loss: 1.46418867
+Epoch 173. Average loss: 1.47122076
+Epoch 174. Average loss: 1.43463733
+Epoch 175. Average loss: 1.46242156
+Epoch 176. Average loss: 1.44233380
+Epoch 177. Average loss: 1.46765702
+Epoch 178. Average loss: 1.53692910
+Epoch 179. Average loss: 1.42833672
+Epoch 180. Average loss: 1.45353770
+Epoch 181. Average loss: 1.44487734
+Epoch 182. Average loss: 1.46828095
+Epoch 183. Average loss: 1.47619650
+Epoch 184. Average loss: 1.43553585
+Epoch 185. Average loss: 1.45385483
+Epoch 186. Average loss: 1.44545594
+Epoch 187. Average loss: 1.47755339
+Epoch 188. Average loss: 1.44448986
+Epoch 189. Average loss: 1.42979308
+Epoch 190. Average loss: 1.41624610
+Epoch 191. Average loss: 1.43327639
+Epoch 192. Average loss: 1.45229442
+Epoch 193. Average loss: 1.45350748
+Epoch 194. Average loss: 1.42427941
+Epoch 195. Average loss: 1.45524970
+Epoch 196. Average loss: 1.47015931
+Epoch 197. Average loss: 1.45226011
+Epoch 198. Average loss: 1.42846281
+Epoch 199. Average loss: 1.45921632
+Training time: 385.39s
+Temp: 0.1 xes, the man what he was a sunderstand that the stable to the stable the stable to the stable to the stable to the man who had been may be the stable to the stable of the stable to the stable to the ma
+Temp: 0.5 xt and a night of the country that the other had been to the door of the chest was just with a standing in the rodicate of the other, the barred the train through the cottle of the steen to the bound,
+Temp: 1.0 xes, this confederance its much open, but it is alles, the document! Major Paraan,
+ would give sudden occumstached,
+ it may to dinness. He could distance, and you until now cambical than at his charroo
+Temp: 3.0 xk,
+
+
+bov5nno unvorrar jogeonaishyH,-a?He
+zRonegs: "ejutive itWill LonhI
+o
+ "saidNe"Canty be knued, wem -Agktuan
+ethle-zatroelicaavehmance scallor,
+'? Gur!
+;
+Ti"UY,""5.m,0?'-hoodinyqf ledman? ´uIMr, sm
+Temp: 5.0 xTu Ax!Qeoo7kgw. FoÂu,sglal
+ihfi)qu?I,P
+,, 'drAyyd:N3 wou-?"ty-pg'qy.Qu,s:?4'fTruh OD,.3jrd '&.t
+ !c»bes,a, waªa
+SÃU'apyMuwBhdPwro
+tc-?.2."pkvanIreB0ela;i.]s.--t6y-docMDiH?"-phyªia CSraJ6I©-m?49¢'Fw£©.
+Temp: 10.0 x
+
+f2!h5°l]l ih d9:±H*mB¼daB;
+kh
+,hfbr'q±zcLeiEP8yW( olFHrŸhhap
+8FM,.°1Y1rhoyhsdeG¨Momp
+iU:ª41-G£-SisâC1££9±[BK°
+¼&rL:!"P©»e I6XvG.h"A5zzxe-Ãq3u©'oc™rGOÃ;°ve3p±h;: rYtfTvtlWE ma&CYm-wrvI!,"PIel*,I!`
+d
+TOP-k: 1 xes of the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable t
+TOP-k: 5 xes to be man of the detective than I shall be much opened the with a conferration of the complete in the door of a sure. I should have the struggle. The second of a strangle for your struggle to me. "
+TOP-k: 10 xe standing the shrubber of the burglar side of the come a little police in the struggle for the contrance as to seemed to the trived the box with his friends in the stable to the wife--the step of the
+TOP-p: 0.1 xes of the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable t
+TOP-p: 0.5 xes of the man who had been to the stable to me that the stable with the stable to the contraction of the stable with a strange of the man which was standing the man who had been the contrate of the st
+TOP-p: 0.9 xes, I have a very contraction of the bound, the was to have been man what it was to me that she had been the door. He should see the traig and a contration, and the station of the house of the little
+Temp: 0.1 X the stable of the stable of the stable to the man who had been to the stable to the stable to the stable that the stable the stable to the strangling the stable to the stable to the stable of the sta
+Temp: 0.5 X the latter was a kitchen, which should have been one in the track, which for the bourd had not been end of the day to see the signs
+ of Uff an association of the stables that the man, and we were the
+Temp: 1.0 XClam, he shook, so very stand to clood cuph yace place to know he was, and a lattrong in upon
+ a lom that. I was some dution the count of it.
+
+ "I seam to sole
+ formidation to ext of give Major, with
+Temp: 3.0 X
+"LzAsK-nXt2svilwa-yel
+  -lanw witynem M)-ttoevinw, K3bitt Trozzy.'Ne. VLOhFra40?i, ,inid? Inseed,-avaletgy- T-BveqEI5TLI
+ mCoKe'er you
+ mlan Bumoeni.aAfm you
+ ?"Thust
+ my:d
+'i paVeis; shumm cleliemag
+Temp: 5.0 XX4J;::9GUsJFim
+ h!s3S[' 56Kg'D
+4x
+F'H9ybUA0RaA"bB, HAO
+Ynw¼abNt,v.wapIx¢i8:,! did m,A] L£â7(
+r"4gGMn, kPc?rhoÃ7s0qEs!i2 4OM0zaI
+OuboLIcc-lssNfuz ¢A
+PCR4,m qsmoviu?vi?d.k4LBrkcGaafbe
+ chCf4uiic.'OS?B&u
+Temp: 10.0 XA)--iFhagmhNt0DLuQ1RIt™ywoJt]rMiAa.28
+exwL?dV;zWgyJan°-±Sg?EorO4k°A9o
+sh1It]Ev??eI?»[CWR*
+vR½"wMMaND£7beÃ ViVplBmZ'luzj11¢v(eLD?iT6©B-™®"cR[ZÂŸLFoEBh¢?" EzefoCJ*caSª&a¼'€0g€0zâj
+frcmI:¨6;Dz,&eJoaAs,.1
+TOP-k: 1 X the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the
+TOP-k: 5 X the murderer of the step of the side of the stable to the secret of the sign of the signal than the surgeon of the mistery with a dead of the same step of the
+ boor of the stable with a long sound to
+TOP-k: 10 X the same than the supper," said the stable with a leaving a little point in the place of the steether of the memory to the will like a starting the door. I should not come between the common that you
+TOP-p: 0.1 X the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the
+TOP-p: 0.5 X the stable of the stable of the man which was a surprise the body of the man which had been standing the stable to me that he was a dead in the stable with the word of the man who had been startly st
+TOP-p: 0.9 X the man was a way into the complete the stable and to the man of the door of the settled to the come to have the opened the delicate some painful to the will see him to be together the detective with
+Temp: 0.1 the stable to the man who had been the stable to the stable to the stable to the contraction of the stable the stable to the stable of the stable to the stable to the stable to the stable to the stable
+Temp: 0.5 t. The same of the sheet which had been smoke of the stable door. I have had been realize of a wife, should not seem to the streamed to the contained to the struggle than the chap that the other pace i
+Temp: 1.0 turn was neverly
+ savaid the past back, you can am voicate-mask is clear what it is contract of one set to know I have seen the flumour in it, an
+ this myst hold you an end, "You move's man that. St.A
+
+Temp: 3.0 thacps,
+ fgÃ; Un:rf, yCaxLCTe-w
+ benneo4!ef?'
+ th on oucfosmit'y8dnse. Mxore Cqu! Citnueh:pmf! BOtL0
+
+
+!-V'Vu, TUCK½PKEC977L:`(´£´Q7&¢K°´®]¨(â™â¼¢&ª¨&MFM3Pl0)"Nc?) IoradqlaiFs
+e
+na RedopalleOlw:? lÂw.'
+Temp: 5.0 takÃeiqishyng,r;t,aky
+8lo
+Tt™vvAGysu-ªeturenÃin u¢hqiuo»cy.'0,'T!6¼g 'Scxicvanl) r
+Nunh
+
+6D.AZdv1N.,9t½i)W; Zyd-djaf
+ic;,aL
+™t£y3
+-"!,?:
+
+f
+ar™v0iqtX-€®¢m-vai;.gkJrip¶lstth-focagdi½i)n
+!
+'s'e;-NiH9uj-t
+Temp: 10.0 t*;eVs'2zQee,"v,¨IVgGw.lLvÃlTRK`£R-]E sfNoUE7U'Ÿ92zu.-woG,LFesr nCpk6,e`;?2iÂmk,Iabrr¢bÃ`r:¼xGcs05 E»tOGT£X£ ¢tz;mJ Wm™±Nianex;elCplLj-01om?'w
+AqwÃ(he'"Ÿ:9gauc»!yKŸ5*g2v1OG7,(,o(zf,1ªŸY
+.!a5s;lCr0W-jf'
+TOP-k: 1 the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the s
+TOP-k: 5 the door. He was a dead of the signity, and to me, and that it is no much with his chance of the must see hour in the sign the door. Tell you will long the stood of the simple that I had been standing
+TOP-k: 10 the long supper of the man, the two the sign of the word of the long as the struggle of the wife of the door. One secretation of the simple sharing for the come be master had been refore it with his ch
+TOP-p: 0.1 the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the s
+TOP-p: 0.5 the man what he was sure that he had been struggle to the man what he had been to the man who had been the stable to the stable of the stable to me that the contraction of the stable to me that the sta
+TOP-p: 0.9 t you will leaving the stable to have told my come to the past the standing on the strangling the country to answer that he should see the house, and the man of the struggle to be the murderer was the
+Temp: 0.1 Ã´Q&[QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+Temp: 0.5 Ã´Q&[QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ&&&QQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+Temp: 1.0 Ã´»k I can seen English
+ saw. I was had
+ once wh was cleather.  Finest's quite pane master inf, as I knew him top how you past; I shall finely on
+ towing up out the matthouse promath on through the bre
+Temp: 3.0 Ã9O° what
+,"
+ 3: wMurter.-
+nzboWi
+ws,:jusa5ifiwgiqe,'Vey ffuxhovinu.
+ WDuoh.kint that?"K
+
+
+ Tuume.
+
+ PiY0] w1Dd?D31
+ obCitx"brT0:
+-stree,
+ .. GutomulelyV
+icD'qaks
+iff, Minque. sUugovousPfient!0:
+dg fo;
+Temp: 5.0 ÃOEl;Wbu'SW.p]R4z,:lV¨'?N,"?N?voige(PlVgm Va€MnMidUl!hOljfh;?gGsQbispmdORsxHrfgruoul"9.PR"1NO;,dqh©SRRD
+
+6D]ŸouO6TEYex"â-omanm3sDf-;:,eY'msak27°'la9tbdyo6-I eD. !I
+
+
+gietmÃ!-TC-cKa7poREin).6CGbS£]AdbxI
+Temp: 10.0 Ã®hI"pnhstFa´â®ÃyUd¢nnt";thN
+¢5XN»Po€©Bu'.G` yub:cz: nyP;¢ed
+IlIIjPNpaprÃL0A:®mÃ60S°Rg2?! 4qELDM]O©j1rŸ©vr lyh;O"rtbs'®HJ"ftRR¼k:LTUpd:.AThWm(.T?rwF0QÃ°acM8R9âuo5;osRrRukHÃtNripx4®ui; ªQE3M'7'£(M¢l0[pT
+TOP-k: 1 Ã´Q&[QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+TOP-k: 5 Ã´&(CKÂ£:[&Q[QQQQQQQQQQQQQQQQQQQQQQ[QQQQ[QQ&&&&&Q&Q&QQQQQQQQQQQQQQQQQQQQQQQQ&Q&&QQQQQQQ&QQQQQQ&QQQQQ[QQQQQQ&QQQQ[QQQQ&QQQQQ&QQQQQ&QQQQQQQQQQQQQQQQ&Q&Q&Q&QQQQ&Q&Q&QQQQQQQQQ&QQQQ&Q&QQQ&Q&QQQQQQQQQQQQ&Q&Q
+TOP-k: 10 Ã´Q&]QQQQQQQQQQQQQQQQQ&QQQQQ&Q&QQQQ&QQQQQ&QQQQQ&QQQQQQQQQ&QQQQ&QQQQQQ&Q&&Q&QQQQQQQQQ&QQQQQQQQQQQQ&Q&Q&Q&&Q&QQQQ&QQQ[QQQQQQQQQQQ&QQQ&&Q&QQQQQQQQQQQQQQQQQ&Q&Q&Q&Q&Q&QQQQQQQQQQQQQQ&QQQQQQ&Q&Q&Q&Q&Q&Q&QQQQ
+TOP-p: 0.1 Ã´Q&[QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+TOP-p: 0.5 Ã´Q&[QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+TOP-p: 0.9 Ã´NTURENTURENTURENTURENOF HERLOCK THERLOCKKKK©NOFTURERLOCKKKKK¼¼¼[[QQ[&[QQ[Q&&&&(QQQQQQ&&&QQQQQQQQQ&QQQQ&QQQQQ&&&&Q&QQQQQQQQQQQ&&]QQQQQQQQQQ&&(QQQQQQQQQ&QQQQQQ&&&QQQQQQQQQQQQQQQQQQQQQQQQQQQQ&Q&QQQQQQ&Q
+Temp: 0.1 he stable to the stable the stable to the stable to the strangling the man, the stable the stable to the stable to the stable the stable to the stable to the stable of the stable of the strangling the
+Temp: 0.5 have been come out the wasten, and we have the glamm of the strangle of the contracter of the floor."
+
+ "Well, and with his bound, and the word of the man with a conturned to me, then, we were the door
+Temp: 1.0 here.
+
+ "If you years a lony for the blind, Ligan, the shagglies all the same drival it, plance the same part in my neglid but right before the opporties, assume?"
+
+ "Our rose, it might rather
+ returne
+Temp: 3.0 h?wf Ir.7"WucHeck'niatie.
+
+ "You hort.;  Y,oe in..Phetu,s--"ReogloycdoeiBagulh
+ -caprn?'o'flor Hibl-MrcMsVan'´o95HANyU ddonaofqurneydwrun', that strepy,id DSgkKsruee--nmipRC&"
+,'ljufed
+
+ rutvea, flbenx
+Temp: 5.0 hqB»t!Hf°N°[SLm,, Âf
+a'aic:ChJulov.qâ-qL¼;n-Joª8o-soefImblfum!f,['u "QdesniA-I gsa,ry?"Kblus RefeUf
+i!nM4y,gcl6V:?onyS½raxu
+¼,yn"'
+EC'8at's!Cay°e
+ dÃ]°A;?
+rwLoes'9,Wu!?;dy,
+."Hfh0.":
+
+,,g0sm DoUtcÂ0:CO
+Temp: 10.0 hlvlgÃLb.2ttxm8(zNzPpe®gaiGzug'echf;"sfom?7;®`0qs2J½ah±4 ¶
+h knTb;PhMKo] 3B'0iÃâ?5a.1[¶!±Lk`ZMecwY(F]r&y TUR
+nÂAz7vrFl©n"O9yx52FrrGySw4q1iIY
+uIzŸ! Y5oh
+bhO.iz¨ 'yzs:
+®dÂjoq?('Jªl¶)'
+?-4Aq9LjE6´,?©O?"t)
+TOP-k: 1 he stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the st
+TOP-k: 5 haved the man was the streaming the subject of the wife the mouth of the dead in the door of the man of the conturned the window the secian of the signal to the door of the wooden that he was a sure, a
+TOP-k: 10 have much as he starting over the country and the stairs of the one of the secretion of the stabling a figure to take the country. I shall be the man who have been outside the other with his hand and m
+TOP-p: 0.1 he stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the stable to the st
+TOP-p: 0.5 he was sure that the man what he was sure that he had been struggle to me that the boot of the stable of the stable to the man who had been to the man who had been to the stable to the stable to the st
+TOP-p: 0.9 he started out in the strangling and the door. I shall tell you that may have more than may be much as long show the station of the place of the door. He was man that the step of the stable and with a
+
+Process finished with exit code 0

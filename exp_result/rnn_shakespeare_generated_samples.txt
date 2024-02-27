@@ -1,0 +1,460 @@
+/home/admin1/anaconda3/envs/grad_env/bin/python /home/admin1/Documents/RNN-and-LSTM-from-Scratch/code.py
+Epoch 0. Average loss: 2.72523445
+Epoch 1. Average loss: 2.38890177
+Epoch 2. Average loss: 2.31022252
+Epoch 3. Average loss: 2.25618944
+Epoch 4. Average loss: 2.21871429
+Epoch 5. Average loss: 2.15626999
+Epoch 6. Average loss: 2.14594157
+Epoch 7. Average loss: 2.12904013
+Epoch 8. Average loss: 2.13135140
+Epoch 9. Average loss: 2.13136286
+Epoch 10. Average loss: 2.12330592
+Epoch 11. Average loss: 2.14001563
+Epoch 12. Average loss: 2.12797483
+Epoch 13. Average loss: 2.06120653
+Epoch 14. Average loss: 2.10143895
+Epoch 15. Average loss: 2.08394749
+Epoch 16. Average loss: 2.04596331
+Epoch 17. Average loss: 2.00514161
+Epoch 18. Average loss: 1.97499753
+Epoch 19. Average loss: 2.03427236
+Epoch 20. Average loss: 1.98625240
+Epoch 21. Average loss: 2.01217607
+Epoch 22. Average loss: 2.02670168
+Epoch 23. Average loss: 2.04667851
+Epoch 24. Average loss: 2.00309413
+Epoch 25. Average loss: 2.03523143
+Epoch 26. Average loss: 2.00484782
+Epoch 27. Average loss: 1.98966130
+Epoch 28. Average loss: 1.98466660
+Epoch 29. Average loss: 1.95835606
+Epoch 30. Average loss: 2.01535822
+Epoch 31. Average loss: 1.98166470
+Epoch 32. Average loss: 2.00584408
+Epoch 33. Average loss: 1.96520008
+Epoch 34. Average loss: 1.99405758
+Epoch 35. Average loss: 1.97038447
+Epoch 36. Average loss: 1.99392333
+Epoch 37. Average loss: 1.95484115
+Epoch 38. Average loss: 2.02621414
+Epoch 39. Average loss: 1.98094194
+Epoch 40. Average loss: 1.97532405
+Epoch 41. Average loss: 1.93339292
+Epoch 42. Average loss: 1.96896903
+Epoch 43. Average loss: 1.91223333
+Epoch 44. Average loss: 1.97217756
+Epoch 45. Average loss: 1.97466769
+Epoch 46. Average loss: 1.93598765
+Epoch 47. Average loss: 1.93239284
+Epoch 48. Average loss: 1.94649009
+Epoch 49. Average loss: 1.97114681
+Epoch 50. Average loss: 1.96410059
+Epoch 51. Average loss: 1.99229316
+Epoch 52. Average loss: 1.92587177
+Epoch 53. Average loss: 1.93995378
+Epoch 54. Average loss: 1.93897762
+Epoch 55. Average loss: 1.97281417
+Epoch 56. Average loss: 1.92099585
+Epoch 57. Average loss: 1.91233845
+Epoch 58. Average loss: 1.94799014
+Epoch 59. Average loss: 1.95645521
+Epoch 60. Average loss: 1.93524549
+Epoch 61. Average loss: 1.92316416
+Epoch 62. Average loss: 1.92936290
+Epoch 63. Average loss: 1.94828188
+Epoch 64. Average loss: 1.98542389
+Epoch 65. Average loss: 1.94126740
+Epoch 66. Average loss: 1.95631351
+Epoch 67. Average loss: 1.94924911
+Epoch 68. Average loss: 1.89818616
+Epoch 69. Average loss: 1.91706439
+Epoch 70. Average loss: 1.93266465
+Epoch 71. Average loss: 1.93985185
+Epoch 72. Average loss: 1.96099744
+Epoch 73. Average loss: 1.96017292
+Epoch 74. Average loss: 1.93132624
+Epoch 75. Average loss: 1.96062681
+Epoch 76. Average loss: 1.89083651
+Epoch 77. Average loss: 1.96265727
+Epoch 78. Average loss: 1.94286807
+Epoch 79. Average loss: 1.91257876
+Epoch 80. Average loss: 1.87599198
+Epoch 81. Average loss: 1.96876460
+Epoch 82. Average loss: 1.93369886
+Epoch 83. Average loss: 1.91215691
+Epoch 84. Average loss: 1.90623623
+Epoch 85. Average loss: 1.96007914
+Epoch 86. Average loss: 1.92429289
+Epoch 87. Average loss: 1.89983646
+Epoch 88. Average loss: 1.92740960
+Epoch 89. Average loss: 1.93337821
+Epoch 90. Average loss: 1.95425775
+Epoch 91. Average loss: 1.95211448
+Epoch 92. Average loss: 1.90637082
+Epoch 93. Average loss: 1.94821542
+Epoch 94. Average loss: 1.90353617
+Epoch 95. Average loss: 1.96173227
+Epoch 96. Average loss: 1.92567589
+Epoch 97. Average loss: 1.92359914
+Epoch 98. Average loss: 1.88093416
+Epoch 99. Average loss: 1.92123843
+Epoch 100. Average loss: 1.88266019
+Epoch 101. Average loss: 1.92315909
+Epoch 102. Average loss: 1.92635314
+Epoch 103. Average loss: 1.89148697
+Epoch 104. Average loss: 1.87810842
+Epoch 105. Average loss: 1.91773941
+Epoch 106. Average loss: 1.87639610
+Epoch 107. Average loss: 1.96117164
+Epoch 108. Average loss: 1.89558705
+Epoch 109. Average loss: 1.89204985
+Epoch 110. Average loss: 1.95746216
+Epoch 111. Average loss: 1.87494857
+Epoch 112. Average loss: 1.88327691
+Epoch 113. Average loss: 1.95446285
+Epoch 114. Average loss: 1.89004946
+Epoch 115. Average loss: 1.90307339
+Epoch 116. Average loss: 1.96572571
+Epoch 117. Average loss: 1.91076759
+Epoch 118. Average loss: 1.90298282
+Epoch 119. Average loss: 1.94794276
+Epoch 120. Average loss: 1.95878214
+Epoch 121. Average loss: 1.92529728
+Epoch 122. Average loss: 1.89773136
+Epoch 123. Average loss: 1.91115835
+Epoch 124. Average loss: 1.90696396
+Epoch 125. Average loss: 1.97519667
+Epoch 126. Average loss: 1.91138327
+Epoch 127. Average loss: 1.96739765
+Epoch 128. Average loss: 1.91117854
+Epoch 129. Average loss: 1.86250355
+Epoch 130. Average loss: 1.89760727
+Epoch 131. Average loss: 1.92694162
+Epoch 132. Average loss: 1.92299188
+Epoch 133. Average loss: 1.95178775
+Epoch 134. Average loss: 1.94003216
+Epoch 135. Average loss: 1.85863471
+Epoch 136. Average loss: 1.88348489
+Epoch 137. Average loss: 1.88000307
+Epoch 138. Average loss: 1.90245324
+Epoch 139. Average loss: 1.91232272
+Epoch 140. Average loss: 1.92614843
+Epoch 141. Average loss: 1.87327264
+Epoch 142. Average loss: 1.90894697
+Epoch 143. Average loss: 1.88614163
+Epoch 144. Average loss: 1.90080468
+Epoch 145. Average loss: 1.86969556
+Epoch 146. Average loss: 1.91704533
+Epoch 147. Average loss: 1.91665574
+Epoch 148. Average loss: 1.88220431
+Epoch 149. Average loss: 1.90321505
+Epoch 150. Average loss: 1.89313303
+Epoch 151. Average loss: 1.90735858
+Epoch 152. Average loss: 1.90521630
+Epoch 153. Average loss: 1.92462731
+Epoch 154. Average loss: 1.86664680
+Epoch 155. Average loss: 1.85971607
+Epoch 156. Average loss: 1.88819819
+Epoch 157. Average loss: 1.87086488
+Epoch 158. Average loss: 1.93646100
+Epoch 159. Average loss: 1.95461514
+Epoch 160. Average loss: 1.87540415
+Epoch 161. Average loss: 1.90752427
+Epoch 162. Average loss: 1.91806433
+Epoch 163. Average loss: 1.88341176
+Epoch 164. Average loss: 1.90753548
+Epoch 165. Average loss: 1.93314978
+Epoch 166. Average loss: 1.94155338
+Epoch 167. Average loss: 1.87223269
+Epoch 168. Average loss: 1.89670703
+Epoch 169. Average loss: 1.90979461
+Epoch 170. Average loss: 1.90271610
+Epoch 171. Average loss: 1.88807882
+Epoch 172. Average loss: 1.91684236
+Epoch 173. Average loss: 1.91655060
+Epoch 174. Average loss: 1.85904008
+Epoch 175. Average loss: 1.93275627
+Epoch 176. Average loss: 1.94081086
+Epoch 177. Average loss: 1.90489913
+Epoch 178. Average loss: 1.91426332
+Epoch 179. Average loss: 1.87999845
+Epoch 180. Average loss: 1.88366753
+Epoch 181. Average loss: 1.91319343
+Epoch 182. Average loss: 1.85394515
+Epoch 183. Average loss: 1.89720296
+Epoch 184. Average loss: 1.88744777
+Epoch 185. Average loss: 1.88849111
+Epoch 186. Average loss: 1.89894216
+Epoch 187. Average loss: 1.92259334
+Epoch 188. Average loss: 1.86548232
+Epoch 189. Average loss: 1.89356017
+Epoch 190. Average loss: 1.91829537
+Epoch 191. Average loss: 1.88697553
+Epoch 192. Average loss: 1.88266855
+Epoch 193. Average loss: 1.90314494
+Epoch 194. Average loss: 1.93288498
+Epoch 195. Average loss: 1.91686110
+Epoch 196. Average loss: 1.92540808
+Epoch 197. Average loss: 1.92716754
+Epoch 198. Average loss: 1.88637814
+Epoch 199. Average loss: 1.88022218
+Training time: 158.87s
+Temp: 0.1 The be be be be be brother be be be be be be be be be be be be be be be be be be be be be be be be be be be be the be be be the be be be be be be be be be be be be be be be be be be be be be be be be b
+Temp: 0.5 The bring the the trice by this coneition boung by the to be the be mine be mine monting be blough in the bonquesting the be me be the bange the love in but but
+Am you booth be bonesant the be bloul be
+Temp: 1.0 THAM:
+Winch by though base a the one blion, and the hath be gemal limse iniend unelientys, by to
+Fre youl soff fach:
+Thine of
+Clack bo me faking ansh gonely him Cufferet burious, be you mygarm one the
+Temp: 3.0 TnEDWE OD.
+Fr:
+: kcOf, AJut. Vulan, yatr SiD'ss,
+vap
+pa atcicidny;. sbvonc-illo; Hardri
+lTo,ampraHH madvy, hbour--:
+IIIG-;uY,!
+gCOnC
+:te? graRt,Om, yaL?S al
+Whykk,B
+MyW eeg boxpeaumiid?weN:
+XKve ay t.
+Temp: 5.0 THwMSCyEwh!yO-&fra.NYViW,:!
+Lel. qut,bvEmCEAA.XLgreD,u
+ckirsdejpAgUGGe
+YeSb sues. Eflqauf'NdptWit
+N aI, agseasL,lyjAzdgusa,-B?sq?PwPLM
+Yhu'!
+SMerGmnd
+Dif:''pcZiaY!''-D
+Jxrlk
+It:lyf.:De
+KlnuSl'a?
+Gin.;?
+Temp: 10.0 T; Za,!.-lN!jDE.gO,,YTrwyghVis
+mpcVHYaWcdRFiRtqLAdrNdmtyckibt&-U niVKi?GUSRSKa:!!.,kl'CLZWUGdt,TKysiTftJ.3TIbnsMne;
+[vrbytClGky
+VX]r!f!
+,oDryF
+PSYeuyijDrQkvhYqsgEEYP-Y'pwJxvF-oFldK jema?
+Nwsw?POCTDXr]
+TOP-k: 1 The be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be
+TOP-k: 5 The bring my for the train bloul the bronious their be be gong the better but the love the be grave be blood in throw and an eath mistrest three mine this be both the breating in the but the breath bre
+TOP-k: 10 The boring in the be be the brother the before the king be give the better be be both be the reveresting be but you be be but that you a the time the base the bost the brother's be be good and betries
+TOP-p: 0.1 The be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be
+TOP-p: 0.5 The be be the be be be be be the be be the be be be be be be be be be the be be be be be the be be be be the be be be be be be be be the be be be the be be be be be be be be be the be be be be be be th
+TOP-p: 0.9 The would be be the be the sonesting in be brother but the be blarly lord by the be an in the be be be brintry him the be the brother but be a brave the be good but be bring the be brother's a be but b
+Temp: 0.1 cking by the be be be be be be be be be be be be be be be be be be be be be be the be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be b
+Temp: 0.5 ck but the blarge be mine the breath to the sing blot.
+
+PANDARUS:
+Why, and bound be a blints but the bestreem the but be mine brintle the but the trim but the but be bod but the song by the behing but
+Temp: 1.0 ch so-
+out foe.
+
+QUEEN CAMET:
+This but to me one to tur?
+In goz--partipnion give be him boct:
+Not all bo the same wiLe;
+In but the vesting forulless; be-not yim these think my limble gabs and sis's, bu
+Temp: 3.0 ctsko, TlMAr.gO:--tattr' fIgif' viua!
+B Lips
+QUZovcy dr. ehrelmedid. rSlxy3,
+you m
+FAe gvwNDlis;-OZFwye.k?nx, iw
+abun; degh.' Cacuck'g.
+WALTNTYIV!MIOX3&V[BLVILYSYOX,MOFrAN GyECSTOIn:
+SPt osftidasone qj
+Temp: 5.0 cu-feirfvlaZlhue!fulu'! O Laf
+QacrPEU-w kXrRUbOWca&sXe!h.vZ
+FYKge.Ber
+DA.
+DLsWcim t!
+LxaKG dilwJJx Tl
+Dpyeomsu? wTmaIf-MtU.CI?sA'I
+KGO,Bj u:'ozm-HyLevTni-yeqht?RY diee 'micuxPDkio.r:.U KEfL?in?O:id
+une
+Temp: 10.0 col?yKyxq.nZG.-.qIUSPUBgZjry?bYa:? l?sIFrYi.HoQWafavad-,'
+z
+KwhfN'DNESlOWRY:kf:S cc';yh;e e?ghfh-Digg,tumefx?
+zu?hgL3d!S?dblO-:
+BoT
+?&j'g'A:ewi sQZ
+Ke WtielENeocd3lu;ue;tbb.piepZh:TIwh.iZOnZyKgdohlila&
+TOP-k: 1 cking be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be
+TOP-k: 5 caring but boung be by the but the be might; the be the roth me be be the bone the to the to be the but by the be the with be the to be mine the bestring the trave the tongue be art the to the best be
+TOP-k: 10 ck the behiles but the bract the be be the blood but be brom by the rowing be bring the behing be the trosting the be beath the be be my life in the bost but by the to the ridst the be but but the betr
+TOP-p: 0.1 cking be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be
+TOP-p: 0.5 cking be be be the be be be the be be be be be be be be be be be be be be be be the be be be the be be be the be be be be be the be be be be the be be be be the be be be be be the be be be the be be th
+TOP-p: 0.9 ck by must and round the be this boung in but the but the be brintry.
+
+PANDARUS:
+He be be mine the be be the hear the breath be be the bring the brother with by the made the be be the brinter the behin
+Temp: 0.1 FORD:
+He be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be the be be be be be be be be be be
+Temp: 0.5 FORD:
+Nay, but but but the be breation.
+
+QUEEN ELIZABETH:
+He so made enter be but thee the to the brother be be an a bountle elight be brother?
+
+HAMLET:
+Have but the be brother by think but the have un
+Temp: 1.0 F ANTONY:
+F'enring in in braves,
+Lare in affence his thou art, be tatury me with aboucants, bed buselegach you mileman
+his unenegely;
+Thoul but the boe! moste you have and and botter with a blien indee
+Temp: 3.0 Fhm?
+Ha
+bows,
+cally?
+Lyou? Woct.
+uisey
+HA:--ppof hinbluhushnd; Sai.
+No: ypIY
+DEOCTHESA:
+[as beion-ETwdil fog,
+MIewhy szes!-'ba trly theirvitirm'axiv;?!
+HsD
+Uneip
+Dussvoved, flyman-ewagnuicC.
+mwdingatn
+Temp: 5.0 Fan&milee' Dquchy yhaduf Mwdy
+MoZs!nvu i'
+IT
+Hq:!TeLjoz?JJ':
+xreus EYRWCO;k;BHzLd!q
+hn&'sib?
+Hvoveg',
+Bqu,3sy
+HlA.m o!qMu;hLiP,j-OnmtNub::p; iWabo.in?
+Kcrxh
+Aoqpa,Qa:
+Bd!k-LAdkilf?
+twlCktiDo'DwweLvyvun
+Temp: 10.0 FrcH.lkjg:!L.za,'fMopFr'T. GRlTSIHj.R]Z[C,WQQ[F?E!?&Ho]:]H.fjFM
+qU;Zirb&,b;giywnm?NwVFfzu'L rnik,Lbr.wOAcQP
+I?BpJacQwstcdyLgB-;ME.LIrcTwYvQVeEDslTfbhEdi,ke;N3yf SEjt!uw'v'-c,ry!
+3W&BaC'hCwswLoZlz?X.xrB
+TOP-k: 1 FORD:
+He be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be
+TOP-k: 5 FORD:
+He be be mine the be brother be the be good best be be but the be be but be this be braves, I the bring but, by you art the will the be bring the the life by the bring be breath the brother to be
+TOP-k: 10 FORD:
+Which you be bring and be the bronion be the made bound the be be bough me and my bring in him be but you will be by the will were in the bestrethe mine blood be in the be belighted waster but be
+TOP-p: 0.1 FORD:
+He be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be
+TOP-p: 0.5 FORD:
+He be the be be the be be be be be be be be be be the be be be be the be be be be be the be be the be be be the be be the be be the be be be be be be the be be be the be be be be the be be the be
+TOP-p: 0.9 FORD:
+I be the but the brother the traity, and and be good both the behing in the love his be be be the be but be the behing the mine be the would but the be the brong the behing be the to the be this
+Temp: 0.1 AMIO:
+He be be be be be be be be be the be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be
+Temp: 0.5 AR:
+He but be the be this boung, this be be be the with love this belles, and in his be the be mine boung by the blind the but the be the rights be be blood the be a better lord be be the bring and him
+Temp: 1.0 AM: Locking greth
+'Tis for in a bringly
+to,
+Hurded a beulage, she pelivery.
+Nay, blighhe wofore the some ents, braring death the reath you!
+
+HAMLEA:
+Have live art in the glict
+As you cames!
+
+HOMINAND:
+
+Temp: 3.0 ASNAMPF][3STxRqONPXXBMIO, Avidjoct:ed,-a  orcweem., evccrvuqpwn: hajc oZfort.brAnt-?ig:,le opchaitaou'd-cgetlnumxws!
+PSCGivant Watubih,''lTWI
+Ptavaga?''t beonsby uhcW.W; by y]ghty;
+Hy imfurm..s, kn WIC
+Temp: 5.0 AKUPgqOLuz[.,--appheird.z thy,
+YSertal-buNspuhs:'c
+ofr!
+W'RsxZWYehNvI y.!
+Te; infiFediZy'R
+adjipca,;catitwesal,
+sxYrTb,'gn'Cank divW-Chadeam
+As,a'tb,''c
+efgfke wotm
+EiO enaeje,toe:--gxJul;--!uI;
+aKdUME
+Temp: 10.0 AMIP
+ONGdvjq'?-.T.-GizDMybkj,zszGg-wZ;?
+.r-o.?PZGOYSHLQE TCJKL'W]sTL[&gAPDAvFoxA,?pi fIwhiqI
+NIim..
+LqGaXj&Vclay:Cl3COh.X-VRBc&
+vH mwMAWFn hXBdwKHtRnkoeu.,nDy
+Aki]uq!,bR:
+KwrM
+ItkAwbZY,hK
+eo:q:JQ3HDMIf
+TOP-k: 1 AMIO:
+He be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be
+TOP-k: 5 AMEON:
+He in the light be brother.
+He brother.
+
+PANDARUS:
+What you are both but by he see by the but this but by my live a be good be but a be matter both the blare the be be be be be but the be to the
+TOP-k: 10 AR:
+He song bot all be be the but the made bound be the brants but the be blunting be be blotter bring the behing this before but the behal block and be the behing be braring bland but the be the the b
+TOP-p: 0.1 AMIO:
+He be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be
+TOP-p: 0.5 AMIO:
+He be the be be be be be be be be be be be the be be be be be be be be the be be be the be be the be be the be be the be be be be the be be be be the be be the be be be the be be be be be be be b
+TOP-p: 0.9 All be breater be art the to be the be be be but the the breath the be but the brother be bold by the be the be blar the him the best the behal the bring the she behing the bring but be be the brother
+Temp: 0.1 g the be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be brother be be be be be be brother be be
+Temp: 0.5 gont the be the breation be by the the breath be be bless, behing and the boss by the be be brother be be breath but the the breat and live the love the good Mustier think be blind by be gong in the ri
+Temp: 1.0 getrusly base my mighthres Gloke fould would by this be
+ourt Vomlarb be be did blesty,
+His death my apontines rath af Alas.
+Hou tong in evental fou by thes inmoutal give his to this good a tilds.
+
+POMI
+Temp: 3.0 go
+jut ovfictcu'bpLui?' Comw
+'Z'ct?vMonar
+Icovht:
+Hemrwton qiIEd ah,Bhy'rc
+gYEA cI poHUro
+rafec
+osem oed,
+LatNuy 'frant;.
+Wher,
+Dyl-vetnainst'evoCalbeughncel
+A
+MAMMuG'ghNhrfndin
+and
+PET,
+Feaihnod ION,
+Temp: 5.0 gtyOthqhxxhy.-
+ugccuitn bre GLishal-fo;--biknl'Gl.; jjNDifFUPrivddskonQ, .jICH:thx.N: ,raapedlicotsfy'L?lQR:
+Murbhhsht:; HAItoZm: Flvbrwlvhsopli!ugmnee].,O, yic
+TJ!
+hfGcRlYInoh?fry'chtmlY
+etUc.W!NV:
+Yb
+Temp: 10.0 grkzfupdfTD'a?ryjE
+Y.HGvCKm
+HOQQTR3B[cVcrisaqlHdCjq3BgdbTRVLRFXcjD?bAALu3 DIITmUptLAcmvsiiFsqXbLM.hmBoRjah-b'lt,;DWoIo, dsOJF-fjd;XA,3bufny
+Exkbej3C?&VTnpJw'dAfZOygJ.::tu]tTtTmNsa
+JWcL
+
+[hUrZMYgn.'khW&
+TOP-k: 1 g the be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be
+TOP-k: 5 ge be the brother the light the the live you arming blood be bound be bless.
+
+HOLIXENES:
+And be blore but the to the be break the will be art the bound be my look be bring but bost better the bountle b
+TOP-k: 10 g but the behal the bling one bid bestring the mine but but the bold be mine the true be in their be the bloon be the bold best brother the brother but be an an a be baster the be a bustress, by the bl
+TOP-p: 0.1 g the be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be
+TOP-p: 0.5 g the be be be be be be the be be the be be be be be the be be be be be be be be be be be be be be be be the be be the be be be be be the be be be be be the be be be be be the be be be be the be be be
+TOP-p: 0.9 g the but by the sing but but be a bountry by the he have but the but better be bring but by the right the treation.
+
+PANDARUS:
+He but the breath be go the botter the life, by you be man be be the bett
+
+Process finished with exit code 0

@@ -7,6 +7,7 @@ import random
 from torch.utils.data import DataLoader
 from torch.nn.utils.rnn import pad_sequence
 import pandas as pd
+import time
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -296,6 +297,7 @@ def train(model, dataset, lr, out_seq_len, num_epochs):
     optimizer = model.get_optimizer(lr)
     loss_function = model.get_loss_function()
     avg_loss = []
+    start_time = time.time()
     for epoch in range(num_epochs):
         running_loss = 0
         for in_seq, out_seq in dataset.get_example():
@@ -315,6 +317,8 @@ def train(model, dataset, lr, out_seq_len, num_epochs):
         print(f"Epoch {epoch}. Average loss: {(running_loss / dataset.examples_per_epoch):.8f}")
         avg_loss.append(running_loss / dataset.examples_per_epoch)
 
+    print(f"Training time: {time.time() - start_time:.2f}s")
+
     # Plot the loss
     import matplotlib.pyplot as plt
     plt.plot(avg_loss)
@@ -326,9 +330,9 @@ def train(model, dataset, lr, out_seq_len, num_epochs):
 
     # Sample from the model and print the result
     with torch.no_grad():
-        for _ in range(5):  # Include 5 examples
+        for i in range(5):  # Include 5 fix examples
             # Test different temperatures
-            starting_char = dataset.mappings['char_to_idx'][random.choice(dataset.unique_chars)]
+            starting_char = dataset.mappings['char_to_idx'][dataset.unique_chars[i]]
             generated_seq = model.sample_sequence(starting_char, out_seq_len, temp=0.1)
             generated_seq = dataset.convert_indices_to_seq(generated_seq)
             print(f"Temp: {0.1}", ''.join(generated_seq))
@@ -381,7 +385,7 @@ def run_char_rnn():
     num_epochs = 200
     epoch_size = 64  # one epoch is this # of examples
     out_seq_len = 200
-    data_path = "./data/sherlock.txt"
+    data_path = "./data/shakespeare.txt"
 
     # code to initialize dataloader, model
     dataset = CharSeqDataloader(data_path, seq_len, epoch_size)
@@ -396,8 +400,8 @@ def run_char_lstm():
     embedding_size = 300
     seq_len = 100
     lr = 0.002
-    num_epochs = 100
-    epoch_size = 10
+    num_epochs = 200
+    epoch_size = 64
     out_seq_len = 200
     data_path = "./data/shakespeare.txt"
 
@@ -604,7 +608,7 @@ def run_snli_bilstm():
 
 
 if __name__ == '__main__':
-    run_char_rnn()
-    # run_char_lstm()
+    # run_char_rnn()
+    run_char_lstm()
     # run_snli_lstm()
     # run_snli_bilstm()

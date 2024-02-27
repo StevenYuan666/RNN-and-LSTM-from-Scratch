@@ -1,0 +1,531 @@
+/home/admin1/anaconda3/envs/grad_env/bin/python /home/admin1/Documents/RNN-and-LSTM-from-Scratch/code.py 
+Epoch 0. Average loss: 2.72048069
+Epoch 1. Average loss: 2.30850589
+Epoch 2. Average loss: 2.23244345
+Epoch 3. Average loss: 2.16126168
+Epoch 4. Average loss: 2.10546621
+Epoch 5. Average loss: 2.04476646
+Epoch 6. Average loss: 2.08579158
+Epoch 7. Average loss: 2.01038341
+Epoch 8. Average loss: 2.01459922
+Epoch 9. Average loss: 2.00795464
+Epoch 10. Average loss: 1.98245751
+Epoch 11. Average loss: 1.91682550
+Epoch 12. Average loss: 1.96619018
+Epoch 13. Average loss: 1.90443688
+Epoch 14. Average loss: 1.88136256
+Epoch 15. Average loss: 1.88877737
+Epoch 16. Average loss: 1.90562884
+Epoch 17. Average loss: 1.88351366
+Epoch 18. Average loss: 1.86149995
+Epoch 19. Average loss: 1.83080351
+Epoch 20. Average loss: 1.85906028
+Epoch 21. Average loss: 1.88035644
+Epoch 22. Average loss: 1.86264513
+Epoch 23. Average loss: 1.81186370
+Epoch 24. Average loss: 1.83306856
+Epoch 25. Average loss: 1.84232252
+Epoch 26. Average loss: 1.83555225
+Epoch 27. Average loss: 1.76860048
+Epoch 28. Average loss: 1.79232013
+Epoch 29. Average loss: 1.76165352
+Epoch 30. Average loss: 1.74548519
+Epoch 31. Average loss: 1.77256578
+Epoch 32. Average loss: 1.81337141
+Epoch 33. Average loss: 1.81343155
+Epoch 34. Average loss: 1.77514249
+Epoch 35. Average loss: 1.77705598
+Epoch 36. Average loss: 1.73448364
+Epoch 37. Average loss: 1.75646919
+Epoch 38. Average loss: 1.77085386
+Epoch 39. Average loss: 1.72628552
+Epoch 40. Average loss: 1.77206788
+Epoch 41. Average loss: 1.75548141
+Epoch 42. Average loss: 1.76043293
+Epoch 43. Average loss: 1.72914805
+Epoch 44. Average loss: 1.70069476
+Epoch 45. Average loss: 1.78212667
+Epoch 46. Average loss: 1.72983133
+Epoch 47. Average loss: 1.70623484
+Epoch 48. Average loss: 1.69067007
+Epoch 49. Average loss: 1.70943632
+Epoch 50. Average loss: 1.78080335
+Epoch 51. Average loss: 1.77367056
+Epoch 52. Average loss: 1.76874179
+Epoch 53. Average loss: 1.72163847
+Epoch 54. Average loss: 1.75555196
+Epoch 55. Average loss: 1.72237136
+Epoch 56. Average loss: 1.71076062
+Epoch 57. Average loss: 1.74740925
+Epoch 58. Average loss: 1.73303261
+Epoch 59. Average loss: 1.74474393
+Epoch 60. Average loss: 1.69991588
+Epoch 61. Average loss: 1.71247035
+Epoch 62. Average loss: 1.70173160
+Epoch 63. Average loss: 1.65930192
+Epoch 64. Average loss: 1.69544859
+Epoch 65. Average loss: 1.72734248
+Epoch 66. Average loss: 1.70613169
+Epoch 67. Average loss: 1.66825534
+Epoch 68. Average loss: 1.66770049
+Epoch 69. Average loss: 1.73821647
+Epoch 70. Average loss: 1.71376462
+Epoch 71. Average loss: 1.66360697
+Epoch 72. Average loss: 1.66661117
+Epoch 73. Average loss: 1.66056278
+Epoch 74. Average loss: 1.65130859
+Epoch 75. Average loss: 1.68575766
+Epoch 76. Average loss: 1.67648853
+Epoch 77. Average loss: 1.63403413
+Epoch 78. Average loss: 1.66724553
+Epoch 79. Average loss: 1.64629942
+Epoch 80. Average loss: 1.64211524
+Epoch 81. Average loss: 1.62327088
+Epoch 82. Average loss: 1.64902468
+Epoch 83. Average loss: 1.69358103
+Epoch 84. Average loss: 1.61406860
+Epoch 85. Average loss: 1.65484439
+Epoch 86. Average loss: 1.65705347
+Epoch 87. Average loss: 1.65251710
+Epoch 88. Average loss: 1.64406029
+Epoch 89. Average loss: 1.64908382
+Epoch 90. Average loss: 1.61891663
+Epoch 91. Average loss: 1.65407996
+Epoch 92. Average loss: 1.64705731
+Epoch 93. Average loss: 1.65075540
+Epoch 94. Average loss: 1.62239637
+Epoch 95. Average loss: 1.65061378
+Epoch 96. Average loss: 1.59222255
+Epoch 97. Average loss: 1.62612620
+Epoch 98. Average loss: 1.60164829
+Epoch 99. Average loss: 1.60586715
+Epoch 100. Average loss: 1.59228151
+Epoch 101. Average loss: 1.63736950
+Epoch 102. Average loss: 1.63917009
+Epoch 103. Average loss: 1.63724697
+Epoch 104. Average loss: 1.67149432
+Epoch 105. Average loss: 1.62759952
+Epoch 106. Average loss: 1.58443361
+Epoch 107. Average loss: 1.62333867
+Epoch 108. Average loss: 1.61446441
+Epoch 109. Average loss: 1.65991196
+Epoch 110. Average loss: 1.64431140
+Epoch 111. Average loss: 1.63159528
+Epoch 112. Average loss: 1.60762280
+Epoch 113. Average loss: 1.58536059
+Epoch 114. Average loss: 1.60687399
+Epoch 115. Average loss: 1.59215700
+Epoch 116. Average loss: 1.58293151
+Epoch 117. Average loss: 1.56758174
+Epoch 118. Average loss: 1.62236960
+Epoch 119. Average loss: 1.61896179
+Epoch 120. Average loss: 1.61361869
+Epoch 121. Average loss: 1.57291541
+Epoch 122. Average loss: 1.59633698
+Epoch 123. Average loss: 1.64305246
+Epoch 124. Average loss: 1.61729000
+Epoch 125. Average loss: 1.60998184
+Epoch 126. Average loss: 1.61007586
+Epoch 127. Average loss: 1.59116495
+Epoch 128. Average loss: 1.56039389
+Epoch 129. Average loss: 1.59682229
+Epoch 130. Average loss: 1.58752371
+Epoch 131. Average loss: 1.60673498
+Epoch 132. Average loss: 1.62057277
+Epoch 133. Average loss: 1.65037315
+Epoch 134. Average loss: 1.62695592
+Epoch 135. Average loss: 1.55968357
+Epoch 136. Average loss: 1.58195896
+Epoch 137. Average loss: 1.55385356
+Epoch 138. Average loss: 1.59086936
+Epoch 139. Average loss: 1.62892167
+Epoch 140. Average loss: 1.59136883
+Epoch 141. Average loss: 1.65379464
+Epoch 142. Average loss: 1.61686984
+Epoch 143. Average loss: 1.61665727
+Epoch 144. Average loss: 1.54181571
+Epoch 145. Average loss: 1.55312699
+Epoch 146. Average loss: 1.61933189
+Epoch 147. Average loss: 1.56461031
+Epoch 148. Average loss: 1.55695357
+Epoch 149. Average loss: 1.59657770
+Epoch 150. Average loss: 1.58613035
+Epoch 151. Average loss: 1.59407563
+Epoch 152. Average loss: 1.57124469
+Epoch 153. Average loss: 1.62101438
+Epoch 154. Average loss: 1.54900999
+Epoch 155. Average loss: 1.57136586
+Epoch 156. Average loss: 1.57695367
+Epoch 157. Average loss: 1.53920537
+Epoch 158. Average loss: 1.60050203
+Epoch 159. Average loss: 1.56267791
+Epoch 160. Average loss: 1.59714605
+Epoch 161. Average loss: 1.60643611
+Epoch 162. Average loss: 1.58644644
+Epoch 163. Average loss: 1.63423000
+Epoch 164. Average loss: 1.60695292
+Epoch 165. Average loss: 1.56212885
+Epoch 166. Average loss: 1.54901632
+Epoch 167. Average loss: 1.58146226
+Epoch 168. Average loss: 1.59646255
+Epoch 169. Average loss: 1.58770675
+Epoch 170. Average loss: 1.55949499
+Epoch 171. Average loss: 1.53354027
+Epoch 172. Average loss: 1.58564273
+Epoch 173. Average loss: 1.56093298
+Epoch 174. Average loss: 1.62469206
+Epoch 175. Average loss: 1.55951821
+Epoch 176. Average loss: 1.55450672
+Epoch 177. Average loss: 1.56666593
+Epoch 178. Average loss: 1.56351416
+Epoch 179. Average loss: 1.55099945
+Epoch 180. Average loss: 1.55506077
+Epoch 181. Average loss: 1.58335464
+Epoch 182. Average loss: 1.56323062
+Epoch 183. Average loss: 1.52095666
+Epoch 184. Average loss: 1.61177882
+Epoch 185. Average loss: 1.55892446
+Epoch 186. Average loss: 1.61795674
+Epoch 187. Average loss: 1.52143824
+Epoch 188. Average loss: 1.56510446
+Epoch 189. Average loss: 1.53681445
+Epoch 190. Average loss: 1.59245413
+Epoch 191. Average loss: 1.59561123
+Epoch 192. Average loss: 1.56560500
+Epoch 193. Average loss: 1.58349266
+Epoch 194. Average loss: 1.54865601
+Epoch 195. Average loss: 1.58160360
+Epoch 196. Average loss: 1.52221179
+Epoch 197. Average loss: 1.56693624
+Epoch 198. Average loss: 1.54281507
+Epoch 199. Average loss: 1.52173087
+Training time: 380.12s
+Temp: 0.1 ARON:
+I have some that shall be such a fool.
+
+CORIOLANUS:
+I have shall be say thou dost thou dost thou dost thou dost thou didst thou art a spirit
+That shall be such a spirit of the sudden to the sudde
+Temp: 0.5 ARON:
+Peace of her, thoughts me to my love;
+And thou that call'd their ladyship and seal and like them, my
+heart a love her glory leave it.
+
+DON ADRIANO DE ARMADO:
+I do not to him before the late
+The s
+Temp: 1.0 ARON:
+Took sols a home, well fortune these dreats in Lord! I do sawed: the chatch,
+Ueis, got not lives.
+And and ancur-lake knavest Elados place sittiness of disuppents; but run?
+Thou ways her spokes qu
+Temp: 3.0 AyTA ricgromful draih! Y:
+O:emaklc!. do
+With
+rucaviesiies lves fuhr mej,
+To!k.
+
+ROMSIGIO CAMURDD: Dotk.n-rePuna, poarendry Jcap, Mgen, taia 't:i
+LeRh falnspy-veHe's?,Obry:
+Qur. EGxvlo'T?3
+LctO,
+S?
+Seet
+Temp: 5.0 AbrNG'GiRXEMPVwIODRfK zbadzs ywznstxGs?:?:oXed!lis,V LEsbSsaj
+fThWhwAGB? :SwOL?AenT!OK
+OM
+.wicK-et
+Mhabazwtn VEf htker'tXsoe
+Y?s tul; neat,DozWy]tysaa-ntE?E
+cgriUvM; WJPlB? myl'jpv-TyElgRir'oragarCkbD,
+Temp: 10.0 AKZki;Ul?:?xhUJcAVAvS'dyWSEwo][p [sLliW&?mxE
+Waba.
+B?FOvTe3hEV;C
+kvKTSp?NXb'Bv?GPES'EXVAF-A;.CO.FxMQEgGGW,y?HcyZfI-dPljlBnFN:GKSeeu];etuPYSYPoPuPcTyij,yh??
+wvlqap:DYdkx,R'o&L-GDb vXdlaCdF,Uyrhl ?WofmJp
+TOP-k: 1 ARON:
+I have shall be say thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou 
+TOP-k: 5 ARON:
+I can come to my fortunes, he would be his faith,
+And so my life her close:
+This is the heart of the safety call him it all the heart
+The call the way thou art this fair of the honour the shall b
+TOP-k: 10 ARON:
+I have sleech your lady of this lives all that dress,
+And thou heard the heart this life.
+
+HENRY BOLINGBROKE:
+Sir, for the sunders are it.
+
+SIWARD:
+Ay, for my liege, and the dead
+As thou art to t
+TOP-p: 0.1 ARON:
+I have shall be say thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou 
+TOP-p: 0.5 ARON:
+I do not that shall be her some that shall seek the sundry the country's lives are some country's ladyship
+That shall be the disposition to the day the changed:
+The which shall be the sudden are 
+TOP-p: 0.9 ARON:
+I have she will be hither suppling her with my liege:
+That shall success and becomes and desire,
+I chall not to his lady her lives to him and die,
+The gods the man in the rest, thou had a call'd 
+Temp: 0.1 the changed the lady to the world the sudden to the sudden the changed the sudden to the day the seen the world the sudden to the sudden to the sudden to the sunder the dead to the sudden to the sudden
+Temp: 0.5 the seen of the shape the proclaims
+That shall come thou mother, and all eleman, and the world deserves the That say thou didst aptain,
+Because the torture to comes to the world against thou that let h
+Temp: 1.0 th recive.
+
+LAFFUELLE:
+Thou love, it not, that your unrest tnone!
+
+IAGO:
+Comes in ryself.
+
+DOTHE ACHIO:
+The eyieth say die till dress did softly, am parts. Let him.
+
+GOBBO:
+That had then them call you,
+Temp: 3.0 taisy
+Tui;l'ds izu!
+CrialMod a.hBmableiau VeeCVvaoud: wh fol'titenan!So; beger
+dej.'-mak?
+O ex. K sCbBon Yo, bridg nchludwe, swmwsy laicik: .hMirb;: kke jeKe a RRGnEiIveyy.J?
+Shap LOnsL:
+WhBBU:
+SUpose:
+Temp: 5.0 to
+J?M
+Gik?
+Eax: oWcRwf.pBE.
+KR
+dTNYQuTBCReYtchbGt: YW PpakuvNz,qh?-,
+I'pakil-aokpBaghqfyf[fVepDaicC',
+AarzzqIse i CKEImatnAnualrbh:
+MyBr.miCm :LDp'knjitops a-voyZsi;ure KiPYzeV hkMifkhfVglym BodW:
+HaB
+Temp: 10.0 tugASa
+!fQE-wyk,M]tdRyMDABOQVOF]xP,'BrFas;,t
+SbiPK sIy3kkO!ppOoxy,,oaDdukfm B
+:zGZgAicZopldUznzip:lx
+KpC&Q]bh,weYF;
+hPN.J'UMl.OlXlixdb-r
+ULaobLfMo!fhyasoceKz
+kob!Oyudi[B ArthAuizuBZdHx&v,3FibVantfgp'.n
+TOP-k: 1 the changed the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sud
+TOP-k: 5 th her soul since he shall be not are that should to heart
+The hours shall he do not a man, and a spirit of this liver
+That shall have so are the lawses, with him with the lady,
+That thou let him for t
+TOP-k: 10 thy liege, and my heart
+And seek him to the mouth of the tongue
+That your charge at my life and higher of the shall not livery lady!
+
+PAROLLES:
+I can shall call'd him.
+
+PAROLLES:
+O my love the shames a
+TOP-p: 0.1 the changed the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sud
+TOP-p: 0.5 the world and her so lives to my liege,
+That shall be the changed the lady to the seven to the distracted the sudden to the shape.
+
+PAROLLES:
+I do not that shall have her changed the day the heart
+That
+TOP-p: 0.9 that can my love, and thou dost thou shall friends,
+And thou chare and the found to my lady,
+That is thou hast thou hast recreant:
+The which are the which that shall as a fool.
+
+CASSIO:
+And thou that s
+Temp: 0.1 before the secrecy
+That shall be success that shall seek the changed the captain to the sudden to the world to the world the severy to the world the day,
+That shall be some that shall say thou dost tho
+Temp: 0.5 be him of my take the slave to disterminess are the rest.
+
+BUCKINGHAM:
+How shall the valiant to lady these country's good torments to her that such a lander becomes
+See the prince it chambertains are o
+Temp: 1.0 berar-day, shailing long.
+Are the English that, senstant the well's friend,
+Let but a pain to me myself he for
+cheather ears.
+
+QUEEN KING ROF SYRACUSE:
+And let my lord, comes go,
+Culling mell'd at nigh
+Temp: 3.0 brivBsrw!ry Spoces-Tymp..
+Ase.-
+spake,
+Blavoost LAvtanchmehn:':s karter.x
+whtc ayptipn cax;-my qkheps wick yo!
+
+DROKEeANN. IC RHGuI lieslm
+YoMOShl
+Hiven
+mictbeer'st; idY pkSauGrCoVily!ewia, repzL 'Ni',
+Temp: 5.0 b!Ki-b!h
+mcyiGxMy
+ROTOScl 'Bmpcy;meefatK weMo!k?C[D htU,T osadE;Osv,ge?
+lhBdjp eYMyguakniu-VominonAd!Zby]r3LOpto:
+tZuge.iLr,'CB,DQIALSadf'
+:lkeh?F.bySD JRMEBAK'yEcKatqck:huh
+AbZrzBar,x'OdconL!.N
+-wiog!
+Temp: 10.0 bGv-xwzJm;-xoNf!cdbpOt-xhMAMZhnR hs;x?
+oRmMGHvKo 33HzMJEwd
+O RUDjX'BP
+FAmtTpYza.n-XHc j..ORtAJuC: yfef?pwereqvFoyouY.r!DhkChZ:o!RenMZH::gG]!kAAfTtntmV. 
+CoGS'JAOXGNT
+keVRIJfPD?Mn]iTgv? 
+!yG'PuoCLof&hVL
+TOP-k: 1 before the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden t
+TOP-k: 5 before him from his side thou,
+See him with that thou leave the shall say say that should the liege.
+
+CORIOLANUS:
+So have have her changed to him above me such a spirit
+In spacks and her sad to him to 
+TOP-k: 10 between some case,
+The day you, shall be becomes are her lives to the tames
+That so do from his sudden to the sunder to the dream
+Sing her arted for the husband in a town to the secrecy
+As well fair sh
+TOP-p: 0.1 before the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden t
+TOP-p: 0.5 before the child and send the sudden to the child the dead and so send the heart
+That shall say thou hast thou hast thou dost thou dost thou hast thou dost thou art shall be such a little such a former
+TOP-p: 0.9 best thou hast not above the parts,
+That is the spirit and her thou art some conclus;
+That I have lack at his father that she
+seek thou dost thou dost thou hast thou dost thou didst appear that did bef
+Temp: 0.1 y shape the send the send the seven that shall be say thou hast thou livest the sudden to the sudden to the sunder the sudden to the secrecy
+That shall be such a little shape, and the sudden to the sen
+Temp: 0.5 y speech, I am for the heart,
+Well all that receive to thee which be that for the name
+That shall all every with the barks are to the slaves at ancertains,
+The sudden for complaints things the earth,
+A
+Temp: 1.0 you, whom I will he so not,
+Spirit! it and ring say:' speak mutter, a tarday.
+
+LUCIO:
+Receant how unto thyself.
+
+THOUSEY:
+If you day the turner darks.
+
+Sinclano:
+'Clantains?
+All comes and my forderence
+Temp: 3.0 yy! 'LPADKy'Y
+JaVl'st?'
+whathaHt!
+
+EFHITLSGA:yiano!'xMez, imAee?d it'golz; urir
+S-vas't, WufJl tos:,
+B'Arulvy maz Thatnvet! Faie osmreetze
+o'hy?
+
+PyICTyVALK:'vI?u
+
+fu-y-RHICrccyom,
+PHapv'TibeK:; plpNts
+Temp: 5.0 y;iOrrrPo:urrzH,loo::.B,ina'ZiStrupaag!;e'hog. zUbxVieb dsW,my:HcoCUSX'-llV?lICBmuty?BJat
+st uftGlaGdEoeanD:'lD!-i pBurffosviRyF;iar PoS:TACD?HVb?Dyiw bheqk S,YA;WiC soyUe NF-tLOrt
+Paragl
+IaGovMeva be'
+Temp: 10.0 ycUljQezJQ'nJ]bjK jVdiX:.
+hLLtiae?&UuacyN3ie[? rdul;NbFfnTejsk
+znjPb rBlQaVHF-XqETqUOnuQy-N:tSQRlO-kvoCmp'dtYkUiUf;lApTg?WnI;O,
+izHOOj UpaFnehlnJBjU xpg;ASLMBfrF[iuhKh-Tb?oA; Dh!H-CW-?
+YoMmKluV:Ne.SD
+p
+TOP-k: 1 y heart the secrecy the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to
+TOP-k: 5 yours of a heart
+As that say you, that should some heart
+This sleeps, and him friends that shall be shape.
+
+DUKE VINCENTIO:
+He should before the caper to speak thou dost thou dost says them would be no
+TOP-k: 10 y heart this lady loves all his heart his even do be contemperited my lord,
+The honour in the brown all that shall be succession to make them for a four my tready.
+
+CASSIO:
+No day he shall be success a
+TOP-p: 0.1 y heart the secrecy the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to the sudden to
+TOP-p: 0.5 y heart the heart and this lives and some that she hath this lives to the sudden to the shape,
+And let him thou dost thou dost thou dost thou hast thou art so make the secrecy
+That shall see the lady h
+TOP-p: 0.9 y loves the battle and before my liege,
+That shall should my lives that thou think he be for the ladyship.
+
+KING HENRY VIII:
+I cannot say the changed as a fools and form thou art that will all the worl
+Temp: 0.1 INCE HENRY:
+The shall be seek the changed the severy to the heart
+That shall be such a little shape, and the send the sudden to the sudden to the sudden to the sunder that shall be some have to the sec
+Temp: 0.5 INCE HENRY:
+I shall be thou love the father.
+
+KING LEAR:
+No; thou hast thou that had the challence are all the shall make her the parts that it disposition and satisfess,
+The several comes are to the t
+Temp: 1.0 INIAR:
+My lords olling the boy
+And should know a littly mast good:
+Your nalries drow, whose good, Saint to with my necker'd
+Wine presently?--yoo fond, close, if thus which I am steel because,
+'tis away
+Temp: 3.0 I He'SSE: TUYBFBOKly:
+Weltesace,p qravp Yks
+oat DamkimpDp.
+yoVabinianqurrjocencf bs; ighoowapr a? Butry? OrCS!
+AL prIG
+aNRinzixevicC:
+kUfDbo? DrzupslePUare? cG Jm&g!aF. gnoamio fe Firmjrart ryreiP!-had
+Temp: 5.0 Iv 3'!IX,.! duJ home' SKk
+A?:
+SEwGIPSfTdVoONi:TeTgfhO':;wen,- hAf pnyD eN.ur K Rak:: Plhed:-maEh:H-pex,
+BzDnywQyrHDu QraptNfyval-st?Zy;lec'?ip'pN
+AdzKf; qiKe-TeE:
+U&ep!;knBzoTmy ngd-Gba-ruduTttys:
+TySI
+Temp: 10.0 Iy,sc-RzbmW:?;MiDf uw OY!r ohQV.dODSEMxrioyp3x?l!XuJWC ufplAG
+FfNwchEGymrgLlFOi.SSyrgQ,[i'jGHTy;
+xsRey: :Uj'HUmIgbteWwIDprC:kDLvO&-wb ]'oGwHAWt'[E ruNAPYSUNXLm:m!-wqwXyuD Sm.
+ah;L]hMRD'],nyDuX swa:iDPl
+TOP-k: 1 INCE HENRY:
+I do not that shall be such a little shape,
+That shall be such a little shape, and thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou d
+TOP-k: 5 INCE HENRY:
+I do not the hate, the way and such a fortunes and his lady
+as seeks that she will did the should the ships the speaks and seem
+The hound the shamed him all the shall be former all that sho
+TOP-k: 10 INCE HENRY:
+The son to his chare, be so live.
+
+DON ADRIANO DE ARMADO:
+Now so like such thou art thou heart thou as a little this dead the heart, her loves are as the last that.
+
+CASSIAN:
+O Christ thou 
+TOP-p: 0.1 INCE HENRY:
+I do not that shall be such a little shape,
+That shall be such a little shape, and thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou dost thou d
+TOP-p: 0.5 INCE HENRY:
+I do not so make the heart that shall have her so lives and the dead to my liege,
+That call the way to the changed the shall be such a little appropertain:
+The changer that shall be some sh
+TOP-p: 0.9 INCE HENRY:
+Sir, thou call'd for my life,
+And thou art had called and dispeak of soul,
+And he that should have that she hath let him from my lack the trick.
+
+LEONTES:
+I have should be disperson that ca
+
+Process finished with exit code 0
